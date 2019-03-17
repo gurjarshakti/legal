@@ -239,3 +239,12 @@ body {
   background-image: -webkit-gradient(linear, left bottom, right bottom, color-stop(60%, #A30000), color-stop(60%, #D63333), color-stop(70%, #E57F7F), color-stop(70%, #EFB2B2));
    background-image: -moz-gradient(linear, left bottom, right bottom, color-stop(60%, #A30000), color-stop(60%, #D63333), color-stop(70%, #E57F7F), color-stop(70%, #EFB2B2));
 }
+.footerabout {
+    padding-left: 70px;
+}
+
+.footerlinks {
+    float: right;
+    text-align: right;
+    padding-right: 90px;
+}
